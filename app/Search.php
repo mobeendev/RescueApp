@@ -103,4 +103,9 @@ class Search extends Model
     {
         return $this->hasMany('App\LostPerson', 'id_search', 'id');
     }
+
+    public function incidents()
+    {
+        return $this->hasMany('App\Incident', 'id_search', 'id');
+    }
 }

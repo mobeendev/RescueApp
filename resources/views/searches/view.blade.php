@@ -30,6 +30,13 @@
                 </a>
                 <!-- Data tab - CLOSE -->
 
+                 <!-- Data tab - OPEN -->
+                 <a class="nav-item nav-link active" id="nav-data-tab" data-toggle="tab"
+                href="#nav-data" role="tab" aria-controls="nav-data" aria-selected="true">
+                    {{ __('main.incident') }}
+                </a>
+                <!-- Data tab - CLOSE -->
+
                 <!-- Closing tab - OPEN -->
                 <a class="nav-item nav-link" id="nav-closing-tab" data-toggle="tab"
                 href="#nav-closing" role="tab" aria-controls="nav-closing" aria-selected="false">

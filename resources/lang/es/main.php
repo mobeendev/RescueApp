@@ -22,6 +22,7 @@ return [
     'privacy_policy'               => 'Política de privacidad',
     'terms_of_service'             => 'Terminos y Condiciones',
     'data'                         => 'Datos',
+    'incident'                      => 'Incident3',
     'finish'                       => 'Terminar',
     'lost'                         => 'Perdido',
     'found'                        => 'Encontrado',
